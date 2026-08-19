@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-labelledby="t d">
+  <title id="t">Family shop ledger — All About Service LLC</title>
+  <desc id="d">Illustrated ledger page for a family general contractor. Not a job photo.</desc>
+  <defs>
+    <pattern id="rules" width="640" height="22" patternUnits="userSpaceOnUse">
+      <path d="M0 21.5 H640" stroke="#c5d0de" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="640" height="480" fill="#fffaf2"/>
+  <rect width="640" height="480" fill="url(#rules)"/>
+  <rect x="0" y="0" width="36" height="480" fill="#003ca8"/>
+  <rect x="36" y="0" width="6" height="480" fill="#f0480c"/>
+  <text x="58" y="42" font-family="Georgia, serif" font-size="13" fill="#5a6270" letter-spacing="2">FAMILY LEDGER · DENVER &amp; BOULDER</text>
+  <text x="58" y="88" font-family="Arial Narrow, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#141820">ALL ABOUT SERVICE</text>
+  <text x="58" y="118" font-family="Georgia, serif" font-size="16" fill="#003ca8">Residential remodeling · Commercial construction</text>
+  <g transform="translate(70,160)" fill="none" stroke="#003ca8" stroke-width="3" stroke-linejoin="round">
+    <path d="M40 90 L140 20 L240 90"/>
+    <path d="M62 75 V150 H218 V75"/>
+    <rect x="118" y="108" width="28" height="42"/>
+    <rect x="78" y="92" width="32" height="28"/>
+    <rect x="168" y="92" width="32" height="28"/>
+    <path d="M78 120 H110 M78 106 H110"/>
+    <path d="M174 106 H194 V120 H174"/>
+    <path d="M268 40 V150 H360 V70 L314 40 Z"/>
+    <rect x="292" y="88" width="44" height="62"/>
+    <path d="M300 150 V112 H328 V150" stroke-width="2"/>
+    <path d="M292 108 H336" stroke-width="2"/>
+    <circle cx="400" cy="70" r="38" stroke="#f0480c" stroke-width="4"/>
+  </g>
+  <text x="438" y="224" text-anchor="middle" font-family="Georgia,serif" font-size="18" fill="#f0480c" font-weight="700">35+</text>
+  <text x="438" y="246" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#f0480c" letter-spacing="1.4">YEARS</text>
+  <g font-family="IBM Plex Mono, ui-monospace, monospace" font-size="13" fill="#2a3140">
+    <text x="58" y="360">01  Bathroom remodel</text>
+    <text x="58" y="384">02  Kitchen remodel</text>
+    <text x="300" y="360">03  Flooring &amp; tile</text>
+    <text x="300" y="384">04  Interior paint</text>
+    <text x="58" y="408">05  Sprinklers · licensed &amp; insured · we guarantee our work</text>
+  </g>
+</svg>
